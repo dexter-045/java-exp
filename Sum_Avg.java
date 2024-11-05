@@ -15,7 +15,7 @@ public class SumAndAverage {
         System.out.println("Enter " + count + " numbers:");
         for (int i = 0; i < count; i++) {
             double number = input.nextDouble();
-            sum += number;  // Add each number to sum
+            sum += number;
         }
 
         
